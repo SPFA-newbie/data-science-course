@@ -1,0 +1,36 @@
+{
+    "title":"名称",
+    "titleEN":"英文名称",
+
+    "definition":{
+        "en":"英文描述",
+        "zh":"中文描述"
+    },
+    "longDefinition":{
+        "en":"英文长描述",
+        "zh":"中文长描述"
+    },
+    "fullySpecifiedName":{
+        "en":"英文完整指定名称",
+        "zh":"中文完整指定名称"
+    },
+    "diagnosticCriteria":{
+        "en":"英文诊断标准",
+        "zh":"英文诊断标准"
+    },
+
+    "inclusion":["包含术语（无链接的）"],
+    "inclusionID":["包含术语（有链接的）"],
+
+    "exclusion":["排除术语（无链接的）"],
+    "exclusionID":["排除术语（有链接的）"],
+
+    "synonym":["同义词（无链接的）"],
+    "synonymID":["同义词（有链接的）"],
+
+    "narrowerTerm":["狭义术语（无链接的）"],
+    "narrowerTermID":["狭义术语（有链接的）"],
+
+    "parent":["父节点的ID"],
+    "child":["子节点的ID"]
+}
